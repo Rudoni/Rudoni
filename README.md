@@ -1,4 +1,5 @@
 Hi Github 👋
+
 -🔭 In October, I will join the IT Engineering Cycle on a work-study basis at CESI
 
 -🌱 I aim to become an expert in IT development.
