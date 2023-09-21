@@ -34,6 +34,6 @@
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat)
   
 ## Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=unshade&count_private=true&theme=radical&show_icons=true"/></div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=unshade&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="unshade"/></div>
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unshade&layout=compact"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rudoni&count_private=true&theme=radical&show_icons=true"/></div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Rudoni&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="unshade"/></div>
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudoni&layout=compact"/></div>
